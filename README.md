@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**zhangnianyi/zhangnianyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm 张念怡! 👋
+I'm a passionate Operations Engineer based in [Your Location]. With a strong background in ensuring smooth deployment and operation of mission-critical systems, I enjoy leveraging technology to solve complex problems efficiently.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
+Here are some of the technologies and tools I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Operating Systems: Linux (Ubuntu, CentOS), Windows Server
+Cloud Platforms: AWS (EC2, S3, RDS), Azure, Google Cloud Platform
+Automation & Configuration Management: Ansible, Terraform, Chef
+Monitoring & Logging: Nagios, Prometheus, ELK Stack
+Containerization: Docker, Kubernetes
+Scripting & Programming: Bash, Python, PowerShell
+Version Control: Git
+🌱 Currently Learning
+I'm currently focusing on enhancing my skills in:
+
+Kubernetes for orchestration and scalability
+Advanced scripting techniques in Python
+Security best practices in cloud environments
+💬 Let's Connect!
+Feel free to reach out to me for discussions on:
+
+Operations and infrastructure management
+Automation strategies
+Collaborative opportunities
+📫 How to Reach Me
+You can connect with me via:
+
+LinkedIn: 张念怡 on LinkedIn
+Email: your.email@example.com
+⚡ Fun Fact
+I believe in the power of automation to make our lives easier and systems more reliable!
+
+
